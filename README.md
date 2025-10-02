@@ -9,11 +9,7 @@ A repository of scripts implementing computer vision techniques and machine lear
 - High-pass filters: Filters that remove low-frequency noises while allowing high-frequency signals to pass through, useful for sharpening effects and detecting sharp edges in images.
 - Otsu Thresholding: A simple method for generating a binary mask of objects in images, useful for object detections.
 - Watershed: An opencv algorithm that involves creating basins and expanding them to segment objects in images.
-
-## Machine Learning Models
-- Naive Bayes
-- Convolutional Neural Networks (CNN)
-- Accuracy scoring metrics
+- Image denoising: Technique to reduce graininess and decolorization in images to improve image quality.
 
 ## Open-source libraries with image analyses tools
 - [Deepspot](https://github.com/cbib/DeepSpot): Deep-learning method for enhancement of fluorescent spots in microscopy images.
@@ -21,3 +17,6 @@ A repository of scripts implementing computer vision techniques and machine lear
 - [Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything): An AI model from MetaAI that takes in user-specified prompts to segment objects in images.
 - [BigFISH](https://github.com/fish-quant/big-fish) spot detection in microscopy images: Detects fluorescent spots in microscopy images.
 - [trackpy](https://github.com/soft-matter/trackpy) spot detection in microscopy images: Detects fluorescent spots in microscopy images.
+
+## Machine Learning Model add-ons
+- Convolutional Block Attention Module (CBAM): Lightweight attention module easily integrateble to different types of model architecture to improve performance.
