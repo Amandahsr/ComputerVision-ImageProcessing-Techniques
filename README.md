@@ -1,7 +1,7 @@
 # Overview of computer vision techniques/models
 A list of common and useful computational techniques and models I have come across when working on image processing applications.
 
-## Classicial CV techniques
+## Classical CV techniques
 - Vignetting: Techniques for creating darker edges in images, also known as vignetting.
 - Flat-field correction: Techniques for correcting darker edges (or vignette effects) in images to smooth out image intensities.
 - Morphological operations: Binary mask processing operations to improve the quality of generated masks for object detection in images.
